@@ -1,0 +1,35 @@
+h1 {
+    font-size:30px;
+    text-align: center;
+}
+
+h2 {
+    font-size:20px;
+}
+
+#Body__header {
+    text-align: center;
+}
+
+#Body__left {
+    width: 50%;
+    float: left;
+    border: 2px solid black;
+}
+  
+#Body__new {
+    background-color:grey;
+    width:30px;
+    height:15px;
+    float:right;
+    margin-top:20px;
+    text-align: center;
+    padding: 8px;
+    font-weight:bold;
+}
+#Body__right {
+    margin-left: 50%;
+    /* Change this to whatever the width of your left column is*/
+    border: 2px solid black;
+    border-left: 0px;
+}
